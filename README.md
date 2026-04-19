@@ -66,5 +66,3 @@ This project is open-source and available under the MIT License.
 
 This project is created for learning and practice purposes.
   
-
-made by. rakesh kumar 
